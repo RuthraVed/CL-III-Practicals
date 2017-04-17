@@ -1,0 +1,12 @@
+__Steps For flask installation__
+-----------------------------------
+
+1)	sudo apt-get install python-virtualenv
+2)      sudo apt-get install python-pip
+3)      sudo pip install virtualenv
+4)	mkdir Flask_Project
+5)	cd Flask_Project
+6)	virtualenv venv
+7)	. venv/bin/activate
+8)	pip install Flask
+9)	deactivate
